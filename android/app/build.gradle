@@ -1,4 +1,5 @@
-apply plugin: 'com.android.application'
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 // Crashlytics integration is done as part of Firebase now, so it gets
 // automagically activated with google-services.json
